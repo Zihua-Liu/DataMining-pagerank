@@ -1,0 +1,495 @@
+venue:  Conference Of The European Association For Computational Linguistics	pagerank: 0.0239533379424
+venue:  Proceedings of the Joint Fifth Workshop on Statistical Machine Translation and MetricsMATR	pagerank: 0.00057790384352
+venue:  International Conference On Computational Linguistics	pagerank: 0.0908155593933
+venue:  EACL	pagerank: 0.00129056256284
+venue:  International Workshop On Natural Language Generation	pagerank: 0.00238893782645
+venue:  Workshop On The Computational Treatment Of Nominals	pagerank: 0.000639082840135
+venue:  ACL	pagerank: 0.00195609453664
+venue:  Proceedings of the 6th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities	pagerank: 0.000427978251364
+venue:  Workshop On Temporal And Spatial Information Processing	pagerank: 0.000874133486468
+venue:  Proceedings of the IJCNLP-08 Workshop on Named Entity Recognition for South and South East Asian Languages	pagerank: 0.000429788770995
+venue:  Proceedings of the Third Workshop on Statistical Machine Translation	pagerank: 0.000792983581586
+venue:  Workshop on Statistical Machine Translation	pagerank: 0.00136828952423
+venue:  Proceedings of OntoLex 2005 - Ontologies and Lexical Resources	pagerank: 0.000467238712066
+venue:  Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics - Student Research Workshop	pagerank: 0.000570017672245
+venue:  Proceedings of the IJCNLP-08 Workshop on NLP for Less Privileged Languages	pagerank: 0.000419110430125
+venue:  Workshop On Interactive Spoken Dialog Systems: Bringing Speech And NLP Together In Real Applications	pagerank: 0.000450194173746
+venue:  Proceedings of the Third International Joint Conference on Natural Language Processing	pagerank: 0.00103702728375
+venue:  Annual Meeting Of The Association For Computational Linguistics	pagerank: 0.176036716732
+venue:  EMNLP	pagerank: 0.00352555580789
+venue:  NAACL	pagerank: 0.000747245566329
+venue:  Proceedings of the NAACL HLT 2010 Workshop on Computational Approaches to Analysis and Generation of Emotion in Text	pagerank: 0.000484106174862
+venue:  Computational Linguistics	pagerank: 0.119180977872
+venue:  Workshop On Statistical Machine Translation	pagerank: 0.00115531669249
+venue:  COLING-ACL	pagerank: 0.0208966829867
+venue:  Proceedings of the ACL 2010 Conference Short Papers	pagerank: 0.000629730247798
+venue:  Workshop On Analysis Of Geographic References	pagerank: 0.000529424839371
+venue:  Proceedings of the 2009 Workshop on Knowledge and Reasoning for Answering Questions (KRAQ 2009)	pagerank: 0.00040404040404
+venue:  SIGLEX Workshop On Standardizing Lexical Resources	pagerank: 0.001089913815
+venue:  Proceedings of the Fourteenth Conference on Computational Natural Language Learning	pagerank: 0.000602723882061
+venue:  Workshop On Intentionality And Structure In Discource Relations	pagerank: 0.000682852261816
+venue:  Proceedings of TextGraphs-6: Graph-based Methods for Natural Language Processing	pagerank: 0.000414069648541
+venue:  American Journal Of Computational Linguistics	pagerank: 0.0106741053224
+venue:  Workshop On NLP And XML NLPXML	pagerank: 0.000581980158651
+venue:  2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)	pagerank: 0.00539434050456
+venue:  COLING - POSTERS	pagerank: 0.000798791441019
+venue:  International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics - Poster Sessions	pagerank: 0.00240521054774
+venue:  *SEM	pagerank: 0.000464910771086
+venue:  LREC	pagerank: 0.00213201469192
+venue:  Workshop On Frontiers In Corpus Annotation	pagerank: 0.000936113324486
+venue:  Workshop On TIPSTER Text Program	pagerank: 0.00120784167585
+venue:  Proceedings of the ACL 2010 System Demonstrations	pagerank: 0.000496376919198
+venue:  Proceedings of the 5th Linguistic Annotation Workshop	pagerank: 0.000431213389542
+venue:  SIGSEM Workshop On Prepositions	pagerank: 0.000588110279176
+venue:  International Workshop On Paraphrasing IWP	pagerank: 0.000940873478088
+venue:  Workshop On Lexical Semantics And Knowledge Representation	pagerank: 0.000794955628196
+venue:  CL	pagerank: 0.00080112244455
+venue:  Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies	pagerank: 0.00182507468731
+venue:  Workshop On Speech And Natural Language	pagerank: 0.0331354587056
+venue:  Human Language Technologies: The 2010 Annual Conference of the North American Chapter of the Association for Computational Linguistics	pagerank: 0.0013642227397
+venue:  Workshop On Analyzing Conversations In Text And Speech	pagerank: 0.000461002695401
+venue:  Proceedings of the Joint Conference on Chinese Language Processing	pagerank: 0.000418612359802
+venue:  Meeting Of The North American Association For Computational Linguistics	pagerank: 0.00406828668279
+venue:  Proceedings of the BioNLP 2009 Workshop	pagerank: 0.000568676039387
+venue:  Human Language Technology Conference And Empirical Methods In Natural Language Processing - Interactive Demonstrations	pagerank: 0.000579019878326
+venue:  Proceedings of the 4th Workshop on Syntax and Structure in Statistical Translation	pagerank: 0.000420346631231
+venue:  Proceedings of the NAACL HLT 2009 Workshop on Active Learning for Natural Language Processing	pagerank: 0.000454804093865
+venue:  CVSC	pagerank: 0.000405618466963
+venue:  Workshop On Sharing Tools And Resources	pagerank: 0.00060647637457
+venue:  Workshop On Effective Tools And Methodologies For Teaching Natural Language Processing And Computational Linguistics	pagerank: 0.00100810805467
+venue:  Workshop On Very Large Corpora	pagerank: 0.00498698864452
+venue:  Proceedings of BioNLP Shared Task 2011 Workshop	pagerank: 0.000912413841447
+venue:  SIGHAN Workshop On Chinese Language Processing	pagerank: 0.001785816371
+venue:  CoNLL 2008: Proceedings of the Twelfth Conference on Computational Natural Language Learning	pagerank: 0.00068758920565
+venue:  Theoretical Issues In Natural Language Processing	pagerank: 0.00901203084052
+venue:  SENSEVAL International Workshop On The Evaluation Of Systems For The Semantic Analysis Of Text	pagerank: 0.00197318341834
+venue:  Second International Joint Conference on Natural Language Processing: Full Papers	pagerank: 0.00078177843985
+venue:  Coling 2008: Proceedings of the Workshop on Cognitive Aspects of the Lexicon (COGALEX 2008)	pagerank: 0.00040404040404
+venue:  Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics	pagerank: 0.0174083326682
+venue:  Workshop On Text Summarization	pagerank: 0.000892945417335
+venue:  ENLG	pagerank: 0.00041374272556
+venue:  Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue	pagerank: 0.00115790226472
+venue:  SIGdial Workshop On Discourse And Dialogue	pagerank: 0.00226283862859
+venue:  ACL-IJCNLP: Short Papers	pagerank: 0.000767297815769
+venue:  Proceedings of the Workshop on Software Engineering, Testing, and Quality Assurance for Natural Language Processing (SETQA-NLP 2009)	pagerank: 0.000412394123363
+venue:  Proceedings of the 2010 Workshop on Cognitive Modeling and Computational Linguistics	pagerank: 0.000416577046825
+venue:  SSST, NAACL-HLT 2007 / AMTA Workshop on Syntax and Structure in Statistical Translation	pagerank: 0.000736682955226
+venue:  Workshop On Machine Translation In Asia	pagerank: 0.000460467546747
+venue:  Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics - Short Papers	pagerank: 0.00389798212862
+venue:  Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing	pagerank: 0.000550663955272
+venue:  BUCC	pagerank: 0.000404319821976
+venue:  Conference On Empirical Methods In Natural Language Processing	pagerank: 0.0200963149418
+venue:  International Workshop On Language Resources For Translation Work, Research And Training	pagerank: 0.000425840364766
+venue:  Human Language Technology Conference	pagerank: 0.0130337652557
+venue:  BEA	pagerank: 0.000440606119762
+venue:  International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics	pagerank: 0.0152579180976
+venue:  Human Language Technologies: The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT)	pagerank: 0.00054550232865
+venue:  SIGDAT Conference On Empirical Methods In Natural Language Processing	pagerank: 0.00755002451328
+venue:  Human Language Technologies 2007: The Conference of the North American Chapter of the Association for Computational Linguistics; Proceedings of the Main Conference	pagerank: 0.00259340296944
+venue:  Proceedings of the Fourth SIGHAN Workshop on Chinese Language Processing	pagerank: 0.000916067507969
+venue:  Proceedings of the 4th Workshop on Building and Using Comparable Corpora: Comparable Corpora and the Web	pagerank: 0.000451686111517
+venue:  Proceedings of BioNLP 2011 Workshop	pagerank: 0.000442766025444
+venue:  Proceedings of Fifth Workshop on Syntax, Semantics and Structure in Statistical Translation	pagerank: 0.000414855871885
+venue:  COLING	pagerank: 0.000876295485322
+venue:  45th Annual Meeting of the Association of Computational Linguistics	pagerank: 0.00562990296275
+venue:  Workshop On Data-Driven Methods In Machine Translation	pagerank: 0.00139485267002
+venue:  Proceedings of the Second Workshop on Computational Linguistics and Writing (CLW 2012): Linguistic and Cognitive Aspects of Document Creation and Document Engineering	pagerank: 0.00040404040404
+venue:  Workshop On NLP And XML NLPXML Multi-Dimensional Markup	pagerank: 0.000455910957062
+venue:  Workshop On Learning Word Meaning From Non-Linguistic Data	pagerank: 0.000474097790773
+venue:  Workshop On Natural Language Generation EWNLG	pagerank: 0.00286106152485
+venue:  MultiLing	pagerank: 0.000430534856764
+venue:  Proceedings of the EACL 2009 Workshop on Computational Approaches to Semitic Languages	pagerank: 0.00040984995384
+venue:  Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics - Demonstration Papers	pagerank: 0.000972834442268
+venue:  Annual Meeting Of The Association For Compuational Linguistics - Student Research Workshop	pagerank: 0.000473495365426
+venue:  COLING - Tutorial Notes	pagerank: 0.000404221377283
+venue:  Workshop On Towards Standards And Tools For Discourse Tagging	pagerank: 0.000788678293985
+venue:  Applied Natural Language Processing Conference	pagerank: 0.0256873349327
+venue:  Workshop On Comparing Corpora	pagerank: 0.000628184383706
+venue:  Human Language Technology Conference And Empirical Methods In Natural Language Processing	pagerank: 0.00661436848618
+venue:  Conference Of The European Association For Computational Linguistics - Demonstrations	pagerank: 0.00103142325063
+venue:  Workshop On Discourse Annotation	pagerank: 0.000737623873568
+venue:  Semantics in Text Processing. STEP 2008 Conference Proceedings	pagerank: 0.00048084544443
+venue:  Coling 2008: Proceedings of the workshop on Knowledge and Reasoning for Answering Questions	pagerank: 0.000513437424205
+venue:  Coling 2008: Proceedings of the 3rd Textgraphs workshop on Graph-based Algorithms for Natural Language Processing	pagerank: 0.000489043071399
+venue:  Coling 2008: Proceedings of the workshop on Human Judgements in Computational Linguistics	pagerank: 0.000404221377283
+venue:  Proceedings of the Joint Workshop on Exploiting Synergies between Information Retrieval and Machine Translation (ESIRMT) and Hybrid Approaches to Machine Translation (HyTra)	pagerank: 0.000419829264366
+venue:  Workshop On Annotating And Reasoning About Time And Events	pagerank: 0.000493690847846
+venue:  Proceedings of the NAACL HLT 2010 Second Louhi Workshop on Text and Data Mining of Health Documents	pagerank: 0.000404690069207
+venue:  Workshop On Multilingual Summarization And Question Answering	pagerank: 0.000767458191358
+venue:  Annual Meeting Of The Association For Computational Linguistics - Interactive Poster And Demonstration Sessions	pagerank: 0.00160572761958
+venue:  Proceedings of the Fourth Workshop on Statistical Machine Translation	pagerank: 0.000674136045083
+venue:  ACL-IJCNLP	pagerank: 0.00163997663238
+venue:  COLING - Posters	pagerank: 0.000537686748736
+venue:  Conference On Computational Natural Language Learning CoNLL	pagerank: 0.0112420951498
+venue:  TACL	pagerank: 0.000411712088323
+venue:  Proceedings of the 6th Workshop on  Ontologies and Lexical Resources 	pagerank: 0.000404247756261
+venue:  Workshop On Word Senses And Multi-Linguality	pagerank: 0.000596628427237
+venue:  Workshop On Cross-Language Knowledge Induction Workshop	pagerank: 0.000435271444253
+venue:  Proceedings of TextGraphs-5 - 2010 Workshop on Graph-based Methods for Natural Language Processing	pagerank: 0.000411226958761
+venue:  HLT-NAACL	pagerank: 0.00114521220048
+venue:  Proceedings of the Workshop on Negation and Speculation in Natural Language Processing	pagerank: 0.000440545102079
+venue:  Tenth International Conference on Parsing Technologies	pagerank: 0.000632376355528
+venue:  International Workshop On Parsing Technology	pagerank: 0.00175039467561
+venue:  Workshop On RObust Methods In Analysis Of Natural Language Data ROMAND	pagerank: 0.000466108359691
+venue:  Message Understanding Conference	pagerank: 0.0115048251106
+venue:  Workshop On Computational Natural Language Learning CoNLL	pagerank: 0.00233277023936
+venue:  Workshop On New Text Wikis And Blogs And Other Dynamic Text Sources	pagerank: 0.000567438739415
+venue:  International Conference On Computational Linguistics - Project Notes	pagerank: 0.000975731970465
+venue:  Applied Natural Language Processing Conference And Meeting Of The North American Association For Computational Linguistics	pagerank: 0.0114867094684
+venue:  Workshop On Current Themes In Computational Phonology And Morphology	pagerank: 0.000573723011126
+venue:  Proceedings of ACL SIGLEX Workshop on Software	pagerank: 0.00043462102188
+venue:  Workshop On Speech-To-Speech Translation: Algorithms And Systems	pagerank: 0.000571253000841
+venue:  ACL Microfiche Series 1-83, Including Computational Linguistics	pagerank: 0.00303359500795
+venue:  Coling 2008: Proceedings of the 2nd workshop on Information Retrieval for Question Answering	pagerank: 0.000475863326567
+venue:  Workshop On Computational Approaches To Arabic Script-Based Languages	pagerank: 0.000544906998541
+venue:  INLG 2012 Proceedings of the Seventh International Natural Language Generation Conference	pagerank: 0.000425744422212
+venue:  Workshop On Building And Using Parallel Texts	pagerank: 0.00108501900025
+venue:  Proceedings of the SIGDIAL 2009 Conference	pagerank: 0.000579412402866
+venue:  Fourth International Workshop on Semantic Evaluations (SemEval-2007)	pagerank: 0.00215905981482
+venue:  Workshop On Building Educational Applications Using NLP	pagerank: 0.000550809501608
+venue:  International Joint Workshop On Natural Language Processing In Biomedicine And Its Applications NLPBA BioNLP	pagerank: 0.000985057977812
+venue:  Workshop On Intelligent Scalable Text Summarization	pagerank: 0.0025749462948
+venue:  LaTeCH	pagerank: 0.00040404040404
+venue:  Proceedings of the 7th Workshop on Asian Language Resources (ALR7)	pagerank: 0.000429394320166
+venue:  Workshop on A Broader Perspective on Multiword Expressions	pagerank: 0.000499949609771
+venue:  Proceedings of the ACL 2011 Student Session	pagerank: 0.00042359356644
+venue:  SIGDIAL	pagerank: 0.000416454932595
+venue:  Proceedings of the 2nd Workshop on The People&rsquo;s Web Meets NLP: Collaboratively Constructed Semantic Resources	pagerank: 0.000425097271482
+venue:  International Workshop On Web As Corpus	pagerank: 0.000435071250287
+venue:  Proceedings of the GEMS 2011 Workshop on GEometrical Models of Natural Language Semantics	pagerank: 0.000437757719279
+venue:  SemEval	pagerank: 0.000541816841248
+venue:  International Natural Language Generation Conference	pagerank: 0.000687464673705
+venue:  Proceedings of the International Natural Language Generation Conference	pagerank: 0.000524048324731
+venue:  Proceedings of the Thirteenth Conference on Computational Natural Language Learning (CoNLL 2009): Shared Task	pagerank: 0.000579678015677
+venue:  Proceedings of the Sixth Workshop on Syntax, Semantics and Structure in Statistical Translation	pagerank: 0.000411372803872
+venue:  Proceedings of the 2010 Workshop on Applications of Tree Automata in Natural Language Processing	pagerank: 0.000419639771653
+venue:  Proceedings of the Sixth International Workshop on Linguistically Interpreted Corpora (LINC-2005)	pagerank: 0.00045298750279
+venue:  Proceedings of the 2nd Workshop on Cognitive Aspects of the Lexicon	pagerank: 0.000410792081401
+venue:  Workshop On New Methods In Language Processing And Computational Natural Language Learning	pagerank: 0.000692702022115
+venue:  MWE	pagerank: 0.000409720936967
+venue:  Proceedings of the NAACL HLT 2010 Fifth Workshop on Innovative Use of NLP for Building Educational Applications	pagerank: 0.00049887401422
+venue:  Proceedings of the 2010 Named Entities Workshop	pagerank: 0.000454289057945
+venue:  Proceedings of the 2009 Named Entities Workshop: Shared Task on Transliteration (NEWS 2009)	pagerank: 0.000513501914447
+venue:  Conference On Reference Resolution And Its Applications	pagerank: 0.000598178449163
+venue:  Ninth Meeting of the ACL Special Interest Group in Computational Morphology and Phonology	pagerank: 0.000499930577572
+venue:  Very Large Corpora	pagerank: 0.00466767484221
+venue:  Workshop On Incremental Parsing: Bringing Engineering And Cognition Together	pagerank: 0.000625968628061
+venue:  Workshop On Ontology Learning And Population: Bridging The Gap Between Text And Knowledge	pagerank: 0.00047270244414
+venue:  Workshop On Computational Approaches To Semitic Languages	pagerank: 0.0016636066288
+venue:  Proceedings of the Sixth Workshop on Statistical Machine Translation	pagerank: 0.0006288048306
+venue:  Proceedings of the Workshop on Multiword Expressions: from Parsing and Generation to the Real World	pagerank: 0.000460320830589
+venue:  BioNLP Workshop On Linking Natural Language And Biology	pagerank: 0.000637233624906
+venue:  Proceedings of the Fifteenth Conference on Computational Natural Language Learning	pagerank: 0.000468983096765
+venue:  Workshop On Human Language Technology And Knowledge Management	pagerank: 0.00065844702688
+venue:  Proceedings of the 2009 Workshop on Applied Textual Inference (TextInfer)	pagerank: 0.000420873113045
+venue:  Workshop On Recent Advances In Natural Language Processing And Information Retrieval	pagerank: 0.000475804564076
+venue:  Workshop On Word Sense Disambiguation: Recent Successes And Future Directions	pagerank: 0.00112243109033
+venue:  Proceedings of the 2010 Workshop on Biomedical Natural Language Processing	pagerank: 0.00051274151759
+venue:  Proceedings of the BioNLP 2009 Workshop Companion Volume for Shared Task	pagerank: 0.000870990767573
+venue:  Proceedings of the 2009 Workshop on Language Generation and Summarisation (UCNLG+Sum 2009)	pagerank: 0.00042678825678
+venue:  Software Engineering, Testing, and Quality Assurance for Natural Language Processing	pagerank: 0.000521306008045
+venue:  European Workshop On Natural Language Generation ENLG	pagerank: 0.000792290551051
+venue:  45th Annual Meeting of the Association for Computational Linguistics Companion Volume Proceedings of the Demo and Poster Sessions	pagerank: 0.001837924104
+venue:  Proceedings of the Fifth International Workshop on Inference in Computational Semantics	pagerank: 0.000482414507609
+venue:  TextGraphs Workshop On Graph Based Methods For Natural Language Processing	pagerank: 0.000593944715687
+venue:  Workshop On Computationally Hard Problems And Joint Inference In Speech And Language Processing	pagerank: 0.000559371124251
+venue:  COLING - Demos	pagerank: 0.00044398716322
+venue:  Workshop On Enhancing And Using Electronic Dictionaries	pagerank: 0.000492510292978
+venue:  BioNLP 	pagerank: 0.000455777285046
+venue:  Proceedings of the 2010 Workshop on NLP and Linguistics: Finding the Common Ground	pagerank: 0.00043884493489
+venue:  Proceedings of the ACL-HLT 2011 System Demonstrations	pagerank: 0.000424307876669
+venue:  Workshop On Computer Mediated Language Assessment And Evaluation In Natural Language Processing	pagerank: 0.000542493196942
+venue:  Proceedings of the ACL 2010 Student Research Workshop	pagerank: 0.000412852013055
+venue:  Proceedings of the 3rd Workshop in Computational Approaches to Subjectivity and Sentiment Analysis	pagerank: 0.000421106305706
+venue:  Proceedings of the 13th Annual Meeting of the Special Interest Group on Discourse and Dialogue	pagerank: 0.000450446266517
+venue:  Proceedings of the Third International Workshop on Paraphrasing (IWP2005)	pagerank: 0.000739443212642
+venue:  INLG International Natural Language Generation Workshop	pagerank: 0.00126455919803
+venue:  Proceedings of the ACL-2012 Special Workshop on Rediscovering 50 Years of Discoveries	pagerank: 0.000427032436818
+venue:  Proceedings of the Ninth International Conference on Computational Semantics (IWCS 2011)	pagerank: 0.000496913304382
+venue:  International Conference On Natural Language Generation	pagerank: 0.00192247786626
+venue:  Workshop On Coreference And Its Applications	pagerank: 0.000714280949983
+venue:  Workshop On Building Educational Applications Using Natural Language Processing	pagerank: 0.000632339549759
+venue:  Joint SIGDAT Conference On Empirical Methods In Natural Language Processing And Very Large Corpora	pagerank: 0.00658680065785
+venue:  Workshop on Semantic Evaluations (SemEval)	pagerank: 0.000652492403554
+venue:  Proceedings of the Seventh Workshop on Building Educational Applications Using NLP	pagerank: 0.000470203624283
+venue:  Proceedings of the Sixth SIGHAN Workshop on Chinese Language Processing	pagerank: 0.000430737306976
+venue:  Proceedings of the NAACL HLT 2010 First International Workshop on Formalisms and Methodology for Learning by Reading	pagerank: 0.000414476492255
+venue:  Proceedings of the 2010 Workshop on Multiword Expressions: from Theory to Applications	pagerank: 0.000436139763198
+venue:  Proceedings of the 2nd Workshop on Cognitive Modeling and Computational Linguistics	pagerank: 0.000415245468008
+venue:  Proceedings of the Joint Workshop on Unsupervised and Semi-Supervised Learning in NLP	pagerank: 0.000409250632346
+venue:  Annual Meeting Of The Association For Computational Linguistics - Student Research Workshop	pagerank: 0.000947844684331
+venue:  International Workshop On Tree Adjoining Grammar And Related Formalisms	pagerank: 0.000548350323354
+venue:  Workshop On Usage Of WordNet In Natural Language Processing Systems	pagerank: 0.00132153821362
+venue:  	pagerank: 0.000422980886992
+venue:  Proceedings of the 3rd Workshop on the People's Web Meets NLP: Collaboratively Constructed Semantic Resources and their Applications to NLP	pagerank: 0.000404806592133
+venue:  Workshop On Finite State Methods In Natural Language Processing	pagerank: 0.000901481867313
+venue:  Workshop on Language Technology for Cultural Heritage Data (LaTeCH 2007)	pagerank: 0.00076260708313
+venue:  Proceedings of the 1st Workshop on Speech and Multimodal Interaction in Assistive Environments	pagerank: 0.000405143595915
+venue:  NAACL HLT 2010 Tutorial Abstracts	pagerank: 0.000408713362804
+venue:  Proceedings of the 10th International Workshop on Finite State Methods and Natural Language Processing	pagerank: 0.0004131412599
+venue:  Proceedings of the Second Workshop on Speech and Language Processing for Assistive Technologies	pagerank: 0.000435564993195
+venue:  BioNLP: Proceedings of the 2012 Workshop on Biomedical Natural Language Processing	pagerank: 0.000420255918168
+venue:  Workshop on TextGraphs: Graph-Based Algorithms for Natural Language Processing	pagerank: 0.000432821969116
+venue:  Workshop On Referring Phenomena In A Multimedia Context And Their Computational Treatment	pagerank: 0.000470536186375
+venue:  HLT-NAACL, Companion Volume: Short Papers	pagerank: 0.000663381063538
+venue:  Proceedings of the 2009 Workshop on Text and Citation Analysis for Scholarly Digital Libraries (NLPIR4DL)	pagerank: 0.000475793261581
+venue:  Proceedings of the 12th European Workshop on Natural Language Generation (ENLG 2009)	pagerank: 0.000620810680442
+venue:  Workshop On Feature Engineering For Machine Learning In Natural Language Processing	pagerank: 0.000551747501055
+venue:  Proceedings of the Fifteenth Conference on Computational Natural Language Learning: Shared Task	pagerank: 0.000598760360112
+venue:  Proceedings of the TextInfer 2011 Workshop on Textual Entailment	pagerank: 0.000413847957896
+venue:  Proceedings of the NAACL HLT 2010 Workshop on Creating Speech and Language Data with Amazon&rsquo;s Mechanical Turk	pagerank: 0.000522823910504
+venue:  Workshop On Building And Using Parallel Texts: Data Driven Machine Translation And Beyond	pagerank: 0.00120108530545
+venue:  Human Language Technologies 2007: The Conference of the North American Chapter of the Association for Computational Linguistics; Companion Volume, Short Papers	pagerank: 0.000902955396302
+venue:  NAACL-HLT Workshop on Future directions and needs in the Spoken Dialog Community: Tools and Data (SDCTD 2012)	pagerank: 0.000412423077937
+venue:  Proceedings of the First Workshop on Predicting and Improving Text Readability for target reader populations	pagerank: 0.000411534556526
+venue:  Workshop on Balto-Slavonic Natural Language Processing	pagerank: 0.000470028466916
+venue:  Proceedings of the Workshop on Geometrical Models of Natural Language Semantics	pagerank: 0.000508859488364
+venue:  Workshop On SEMANET: Building And Using Semantic Networks	pagerank: 0.000632643367396
+venue:  Workshop On Open-Domain Question Answering	pagerank: 0.000632148802286
+venue:  Joint Conference on EMNLP and CoNLL - Shared Task	pagerank: 0.000445433156733
+venue:  Workshop On Asian Language Resources And International Standardization	pagerank: 0.000614016296808
+venue:  Workshop On Syntactic And Semantic Complexity In Natural Language Processing Systems	pagerank: 0.000538615848276
+venue:  Workshop On Software Engineering And Architecture Of Language Technology Systems SEALTS	pagerank: 0.000714437102607
+venue:  Proceedings of the First Workshop on Language Technologies for African Languages	pagerank: 0.000407246979069
+venue:  Proceedings of the 11th Meeting of the ACL Special Interest Group on Computational Morphology and Phonology	pagerank: 0.000422830181741
+venue:  ACL-PASCAL Workshop on Textual Entailment and Paraphrasing	pagerank: 0.000870519764834
+venue:  Proceedings of the NAACL HLT 2010 Workshop on Computational Linguistics in a World of Social Media	pagerank: 0.000408708578438
+venue:  HyTra	pagerank: 0.000432993484338
+venue:  Conference Of The European Association For Computational Linguistics - Student Sessions	pagerank: 0.000464738907449
+venue:  Proceedings of the 11th International Conference on Parsing Technologies (IWPT&rsquo;09)	pagerank: 0.000543087954981
+venue:  Proceedings of the Workshop on Distributional Semantics and Compositionality	pagerank: 0.000452632551612
+venue:  HLT-NAACL, Companion Volume: Tutorial Abstracts	pagerank: 0.000444139949838
+venue:  Proceedings of the UCNLG+Eval: Language Generation and Evaluation Workshop	pagerank: 0.000413199634957
+venue:  Proceedings of the NAACL HLT 2010 First Workshop on Computational Neurolinguistics	pagerank: 0.000413857625243
+venue:  Conference On Computational Natural Language Learning And Of The Second Learning Language In Logic Workshop CoNLL And LLL	pagerank: 0.00267824581892
+venue:  Proceedings of the Third International Workshop on Cross Lingual Information Access: Addressing the Information Need of Multilingual Societies (CLIAWS3)	pagerank: 0.000415383345947
+venue:  Proceedings of the EACL 2003 Workshop on Evaluation Initiatives in Natural Language Processing: are evaluation methods, metrics and resources reusable?	pagerank: 0.000406558131755
+venue:  Coling 2008: Proceedings of the workshop on Speech Processing for Safety Critical Translation and Pervasive Applications	pagerank: 0.000416531638613
+venue:  International Workshop On Information Retrieval With Asian Languages	pagerank: 0.000554095578432
+venue:  Proceedings of the Fourth Linguistic Annotation Workshop	pagerank: 0.000499481722477
+venue:  Workshop On Operational Factors In Practical, Robust Anaphora Resolution For Unrestricted Texts	pagerank: 0.00133237934245
+venue:  Proceedings of the Fourth Workshop on Innovative Use of NLP for Building Educational Applications	pagerank: 0.000506745775134
+venue:  Workshop On Text Summarization Branches Out	pagerank: 0.00130028384722
+venue:  Workshop On Multi-Word-Expressions In A Multilingual Context	pagerank: 0.000478351195744
+venue:  Proceedings of the Third Workshop on Issues in Teaching Computational Linguistics	pagerank: 0.000505607524309
+venue:  Proceedings of the NAACL-HLT 2012 Workshop on Computational Linguistics for Literature	pagerank: 0.000465846314516
+venue:  Second International Joint Conference on Natural Language Processing: Companion Volume including Posters/Demos and tutorial abstracts	pagerank: 0.000853604134029
+venue:  Workshop On The Lexicon And Figurative Language	pagerank: 0.000412687228776
+venue:  Proceedings of the Workshop on Monolingual Text-To-Text Generation	pagerank: 0.000449902763936
+venue:  Proceedings of the SIGDIAL 2010 Conference	pagerank: 0.000579210408643
+venue:  4th ACL-SIGSEM Workshop on Prepositions	pagerank: 0.000569476095858
+venue:  Workshop On Unsupervised Lexical Acquisition	pagerank: 0.00117529250584
+venue:  Proceedings of the 2009 Workshop on The People&rsquo;s Web Meets NLP: Collaboratively Constructed Semantic Resources (People's Web)	pagerank: 0.000434265416699
+venue:  CoNLL	pagerank: 0.000586857237799
+venue:  Workshop On Text Meaning And Interpretation	pagerank: 0.000606155573394
+venue:  Workshop On Spoken Language Understanding For Conversational Systems And Higher Level Linguistic Information For Speech Processing	pagerank: 0.000425428091623
+venue:  EACL - Demos	pagerank: 0.00049157039083
+venue:  Proceedings of the Eight International Conference on Computational Semantics	pagerank: 0.000441609996358
+venue:  Proceedings of the Fourth SIGdial Workshop of Discourse and Dialogue	pagerank: 0.000548863581704
+venue:  Proceedings of the 4th Workshop on Cross Lingual Information Access	pagerank: 0.000413878375566
+venue:  Workshop on Bridging the Gap: Academic and Industrial Research in Dialog Technologies	pagerank: 0.000548924226422
+venue:  Workshop On Psycho-Computational Models Of Human Language Acquisition	pagerank: 0.000511317448706
+venue:  ACL-IJCNLP: Student Research Workshop papers	pagerank: 0.000440680948537
+venue:  Workshop on Computational Approaches to Semitic Languages: Common Issues and Resources	pagerank: 0.000470898860976
+venue:  Annual Meeting Of The Association For Computational Linguistics - Interactive Posters And Demonstrations	pagerank: 0.00110797729141
+venue:  Proceedings of the 2009 Workshop on Grammar Engineering Across Frameworks (GEAF 2009)	pagerank: 0.000417868832584
+venue:  Events: Definition, Detection, Coreference, and Representation	pagerank: 0.000407944524387
+venue:  Proceedings of the NAACL HLT 2010 Workshop on Speech and Language Processing for Assistive Technologies	pagerank: 0.000439979284055
+venue:  JEP-TALN-RECITAL 2012, Workshop TALAf 2012: Traitement Automatique des Langues Africaines (TALAf 2012: African Language Processing)	pagerank: 0.00040404040404
+venue:  Workshop On ROMAND Robust Methods In Analysis Of Natural Language Data	pagerank: 0.000447783829937
+venue:  Proceedings of the 5th ACL-HLT Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities	pagerank: 0.00045503222162
+venue:  Workshop On Linking Biological Literature, Ontologies And Databases	pagerank: 0.000755896076154
+venue:  Workshop On NLP And XML NLPXML RDF/RDFS And OWL In Language Technology	pagerank: 0.00049756619772
+venue:  Workshop On Discourse Relations And Discourse Markers	pagerank: 0.000856982753172
+venue:  Workshop On Conversational Systems	pagerank: 0.000856072790871
+venue:  Workshop On How Can Computational Linguistics Improve Information Retrieval?	pagerank: 0.000416529150946
+venue:  Proceedings of the Third Linguistic Annotation Workshop (LAW III)	pagerank: 0.000562115057614
+venue:  JEP-TALN-RECITAL 2012, Workshop DEFT 2012: DÉfi Fouille de Textes (DEFT 2012 Workshop: Text Mining Challenge)	pagerank: 0.00040404040404
+venue:  Workshop on Computational Linguistics for Literature	pagerank: 0.000420448136184
+venue:  Workshop On Content Visualization And Intermedia Representations	pagerank: 0.000689957780711
+venue:  Proceedings of the Workshop on Innovative Hybrid Approaches to the Processing of Textual Data	pagerank: 0.000426310748991
+venue:  NAACL-HLT 2007 Doctoral Consortium	pagerank: 0.000448573624705
+venue:  Workshop On Empirical Modeling Of Semantic Equivalence And Entailment	pagerank: 0.000844349529405
+venue:  Proceedings of the NAACL HLT 2010 Workshop on Active Learning for Natural Language Processing	pagerank: 0.000406374679621
+venue:  Tutorial Abstracts of ACL 2010	pagerank: 0.000409261884471
+venue:  Workshop On Multilingual And Mixed-Language Named Entity Recognition	pagerank: 0.000652785727081
+venue:  Proceedings of the Workshop on Extra-Propositional Aspects of Meaning in Computational Linguistics	pagerank: 0.00040499802821
+venue:  Proceedings of the Workshop on Computational Approaches to Deception Detection	pagerank: 0.000407854985493
+venue:  Workshop On Automatic Alignment And Extraction Of Bilingual Domain Ontology For Medical Domain Web Search	pagerank: 0.000472514513364
+venue:  LASM	pagerank: 0.000404806592133
+venue:  Coling 2008: Proceedings of the workshop Multi-source Multilingual Information Extraction and Summarization	pagerank: 0.000420651411513
+venue:  Workshop On Tagging Text With Lexical Semantics: Why, What, And How?	pagerank: 0.00180928744851
+venue:  Biological, translational, and clinical language processing	pagerank: 0.000836780628014
+venue:  Workshop On Adaptive Text Extraction And Mining ATEM	pagerank: 0.000425117136201
+venue:  NLP4ITA	pagerank: 0.00040404040404
+venue:  Conference Of The European Association For Computational Linguistics - Poster Session	pagerank: 0.000862302446382
+venue:  Linguistic Annotation Workshop	pagerank: 0.000699673344699
+venue:  Proceedings of the NAACL HLT 2010 Demonstration Session	pagerank: 0.000422386861313
+venue:  International Workshop On Scalable Natural Language Understanding ScaNaLU	pagerank: 0.000556728897354
+venue:  Proceedings of the ACL 2012 Joint Workshop on Statistical Parsing and Semantic Processing of Morphologically Rich Languages	pagerank: 0.00040989589034
+venue:  Workshop On The Balancing Act: Combining Symbolic And Statistical Approaches To Language	pagerank: 0.000875056617221
+venue:  Chinese Language Processing Workshop	pagerank: 0.000928031727695
+venue:  Workshop On Morphological And Phonological Learning	pagerank: 0.00082989869617
+venue:  Workshop on Cognitive Modeling and Computational Linguistics	pagerank: 0.000404599239912
+venue:  Proceedings of the Sixth Workshop on Innovative Use of NLP for Building Educational Applications	pagerank: 0.000417546949439
+venue:  Workshop Proceedings of TextGraphs-7: Graph-based Methods for Natural Language Processing	pagerank: 0.000407793977077
+venue:  Workshop On The Relation Of Discourse/Dialogue Structure And Reference	pagerank: 0.000733341083549
+venue:  Workshop On Computational Environments For Grammar Development And Linguistic Engineering	pagerank: 0.000908545919558
+venue:  Workshop On Natural Language Processing In Biomedicine	pagerank: 0.000971261739166
+venue:  Workshop on Deep Linguistic Processing	pagerank: 0.000643723580993
+venue:  SIGLEX Workshop On Deep Lexical Acquisition	pagerank: 0.000559821256637
+venue:  Workshop On Intrinsic And Extrinsic Evaluation Measures For Machine Translation And/or Summarization	pagerank: 0.00108813107717
+venue:  Proceedings of the First Workshop on Algorithms and Resources for Modelling of Dialects and Language Varieties	pagerank: 0.000428886686518
+venue:  Workshop On Natural Language Processing For Communication Aids	pagerank: 0.000585281476769
+venue:  WASSA	pagerank: 0.000404319821976
+venue:  Workshop On Very Large Corpora: Academic And Industrial Perspectives	pagerank: 0.00205490732728
+venue:  Proceedings of the NAACL-HLT Workshop on the Induction of Linguistic Structure	pagerank: 0.000420145748373
+venue:  Proceedings of the EACL 2012 Joint Workshop of LINGVIS & UNCLH	pagerank: 0.000404583323768
+venue:  CompuTerm International Workshop On Computational Terminology	pagerank: 0.000518025781311
+venue:  Meeting Of The ACL Special Interest Group On Computational Phonology And Morphology	pagerank: 0.000449562130084
+venue:  Proceedings of the 2003 EACL Workshop on Morphological Processing of Slavic Languages	pagerank: 0.000410162361367
+venue:  Workshop On Automatic Information Extraction And Building Of Lexical Semantic Resources For NLP Applications	pagerank: 0.00100068402426
+venue:  Proceedings of the Third Workshop on Innovative Use of NLP for Building Educational Applications	pagerank: 0.000540301652078
+venue:  Proceedings of the Second Workshop on Language in Social Media	pagerank: 0.000407647813433
+venue:  Workshop On Multilingual Linguistic Resources	pagerank: 0.000521935627149
+venue:  Workshop On Reversible Grammar In Natural Language Processing	pagerank: 0.00057645582125
+venue:  Proceedings of the Fifth Workshop on Asian Language Resources (ALR-05) and First Symposium on Asian Language Resources Network (ALRN)	pagerank: 0.000408990543094
+venue:  Workshop On Processing Of Dependency-Based Grammars	pagerank: 0.00061686435177
+venue:  Computational Lexical Semantics Workshop	pagerank: 0.00100588861713
+venue:  SIGPHON Workshop On The Computation Of Phonological Constraints	pagerank: 0.000426659586999
+venue:  Proceedings of the Workshop on Computational Models of Language Acquisition and Loss	pagerank: 0.00040404040404
+venue:  Workshop on Predicting and Improving Text Readability for target reader populations	pagerank: 0.00040404040404
+venue:  Workshop On Information Extraction Beyond The Document	pagerank: 0.000469298069322
+venue:  Proceedings of the Eighth Workshop on Asian Language Resouces	pagerank: 0.000413312469487
+venue:  Proceedings of the Tenth Meeting of ACL Special Interest Group on Computational Morphology and Phonology	pagerank: 0.000422953117716
+venue:  Proceedings of the SIGDIAL 2011 Conference	pagerank: 0.000563871255788
+venue:  Proceedings of the 6th Workshop on Asian Language Resources	pagerank: 0.000446781704824
+venue:  Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics - Doctoral Consortium	pagerank: 0.000413860676639
+venue:  Workshop On Linguistic Distances	pagerank: 0.000591226998127
+venue:  Proceedings of SRSL 2009, the 2nd Workshop on Semantic Representation of Spoken Language	pagerank: 0.000408372623857
+venue:  Workshop On Pragmatics Of Question Answering	pagerank: 0.000670513242726
+venue:  Proceedings of the NAACL HLT 2010 Workshop on Computational Linguistics and Writing: Writing Processes and Authoring Aids	pagerank: 0.000449130064913
+venue:  Coling 2008: Proceedings of the workshop on Cross-Framework and Cross-Domain Parser Evaluation	pagerank: 0.000422340815875
+venue:  Proceedings of the ACL 2011 Workshop on Relational Models of Semantics	pagerank: 0.000412799013855
+venue:  HLT-NAACL, Companion Volume: Demonstration Session	pagerank: 0.000419679954056
+venue:  Proceedings of the Workshop on Parsing German	pagerank: 0.000456935904522
+venue:  Proceedings of the First Workshop on Multilingual Modeling	pagerank: 0.000408868465633
+venue:  Workshop On Partially Automated Techniques For Transcribing Naturally Occurring Continuous Speech	pagerank: 0.000409154163653
+venue:  Workshop On ELearning For Computational Linguistics And Computational Linguistics For ELearning	pagerank: 0.000459014141708
+venue:  International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics - Interactive Presentation Sessions	pagerank: 0.000973066478049
+venue:  International Workshop On Medical Speech Translation	pagerank: 0.000654939407404
+venue:  Proceedings of the Workshop on Language in Social Media (LSM 2011)	pagerank: 0.00047336143546
+venue:  Workshop On Making Sense Of Sense: Bringing Psycholinguistics And Computational Linguistics Together	pagerank: 0.000532967840634
+venue:  International Workshop On Linguistically Interpreted Corpora	pagerank: 0.000596192500284
+venue:  Proceedings of the First workshop on Unsupervised Learning in NLP	pagerank: 0.000455128115221
+venue:  Proceedings of the Seventh Workshop on Statistical Machine Translation	pagerank: 0.00055886142947
+venue:  Workshop On Interdisciplinary Approaches To Speech Indexing And Retrieval	pagerank: 0.000510964442201
+venue:  Proceedings of the Fifth International Natural Language Generation Conference	pagerank: 0.000682382266936
+venue:  Proceedings of the Workshop on Automatic Summarization for Different Genres, Media, and Languages	pagerank: 0.000408388100436
+venue:  Proceedings of the NAACL HLT 2010 Young Investigators Workshop on Computational Approaches to Languages of the Americas	pagerank: 0.000415621344561
+venue:  Workshop On A Roadmap For Computational Linguistics	pagerank: 0.000460973155829
+venue:  Proceedings of the Workshop on Semantic Analysis in Social Media	pagerank: 0.000412539351557
+venue:  Workshop On Scalable Natural Language Understanding	pagerank: 0.00052457405056
+venue:  Workshop on Embodied Language Processing	pagerank: 0.000412281106615
+venue:  Workshop On Sentiment And Subjectivity In Text	pagerank: 0.00054661757799
+venue:  Workshop On Automatic Summarization	pagerank: 0.00148969679299
+venue:  Workshop On Multiword Expressions: Integrating Processing	pagerank: 0.000654148711775
+venue:  Workshop On Frontiers In Corpus Annotations II: Pie In The Sky	pagerank: 0.000750433209119
+venue:  HLT-NAACL, Companion Volume: Student Research Workshop and Doctoral Consortium	pagerank: 0.000433993032707
+venue:  Proceedings of the Workshop on Applications of Tree Automata Techniques in Natural Language Processing	pagerank: 0.00040404040404
+venue:  Workshop On KRAQ Knowledge And Reasoning For Language Processing	pagerank: 0.000485218413051
+venue:  Proceedings of the ACL-08: HLT Workshop on Mobile Language Processing	pagerank: 0.00040779809113
+venue:  Proceedings of the NAACL HLT 2010 Workshop on Semantic Search	pagerank: 0.000411759266275
+venue:  Workshop On Research Directions In Dialogue Processing	pagerank: 0.000438267173257
+venue:  Proceedings of the 1st Workshop on South and Southeast Asian Natural Language Processing	pagerank: 0.000404221377283
+venue:  Proceedings of the EACL 2009 Workshop on the Interaction between Linguistics and Computational Linguistics: Virtuous, Vicious or Vacuous?	pagerank: 0.000410391239284
+venue:  Workshop On Breadth And Depth Of Semantic Lexicons	pagerank: 0.000681346956893
+venue:  Proceedings of the Third Workshop on Speech and Language Processing for Assistive Technologies	pagerank: 0.000408981158779
+venue:  Workshop On Multilingual Language Resources And Interoperability	pagerank: 0.000503524105839
+venue:  International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics - Student Research Worskhop	pagerank: 0.000574890039118
+venue:  Proceedings of the 2010 Workshop on Domain Adaptation for Natural Language Processing	pagerank: 0.000442475308093
+venue:  Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics - Tutorial Abstracts	pagerank: 0.00047884724835
+venue:  Proceedings of the Second Workshop on Semantic Interpretation in an Actionable Context	pagerank: 0.00040404040404
+venue:  Tutorial Abstracts of ACL 2011	pagerank: 0.00040404040404
+venue:  Proceedings of the NAACL HLT 2010 Sixth Web as Corpus Workshop	pagerank: 0.000424349532642
+venue:  Workshop On Spoken Language Translation	pagerank: 0.000620664643926
+venue:  Workshop On Computational Phonology	pagerank: 0.000609382222818
+venue:  Proceedings of the Workshop on Integer Linear Programming for Natural Language Processing	pagerank: 0.000485924573835
+venue:  ACL-IJCNLP: Tutorial Abstracts	pagerank: 0.000414723469925
+venue:  Workshop On Natural Language Processing In The Biomedical Domain	pagerank: 0.00099335033264
+venue:  Proceedings of the Second Workshop on NLP Challenges in the Information Explosion Era (NLPIX 2010)	pagerank: 0.000404221377283
+venue:  Proceedings of the ACL-08: HLT Second Workshop on Syntax and Structure in Statistical Translation (SSST-2)	pagerank: 0.000505790770932
+venue:  Proceedings of Workshop on Evaluation Metrics and System Comparison for Automatic Summarization	pagerank: 0.000406412020898
+venue:  Proceedings of the Workshop on Semantic Evaluations: Recent Achievements and Future Directions (SEW-2009)	pagerank: 0.000517626643919
+venue:  Proceedings of the NAACL HLT 2010 First Workshop on Statistical Parsing of Morphologically-Rich Languages	pagerank: 0.000483488774211
+venue:  Proceedings of the Workshop on Multiword Expressions: Identification, Interpretation, Disambiguation and Applications (MWE 2009)	pagerank: 0.000468378300956
+venue:  Proceedings of the NAACL HLT 2009 Workshop on Semi-supervised Learning for Natural Language Processing	pagerank: 0.000466750430543
+venue:  Proceedings of the 2010 Workshop on Companionable Dialogue Systems	pagerank: 0.000405204527981
+venue:  metaphor in NLP	pagerank: 0.000404780213155
+venue:  Workshop On Frontiers In Linguistically Annotated Corpora	pagerank: 0.000475835238299
+venue:  Workshop On Grammar Engineering And Evaluation	pagerank: 0.000828777742317
+venue:  Proceedings of the EACL 2009 Workshop on Computational Linguistic Aspects of Grammatical Inference	pagerank: 0.000415956442983
+venue:  Workshop On Strategic Computing - Natural Language	pagerank: 0.000812799505678
+venue:  Proceedings of the 2nd workshop on Cross Lingual Information Access (CLIA) Addressing the Information Need of Multilingual Societies	pagerank: 0.000415008013986
+venue:  MoL	pagerank: 0.00040404040404
+venue:  Workshop On Concept To Speech Generation Systems	pagerank: 0.00043030676161
+venue:  DiscoMT	pagerank: 0.000405605727197
+venue:  Proceedings of the 2010 Workshop on GEometrical Models of Natural Language Semantics	pagerank: 0.000475103735859
+venue:  Proceedings of the NAACL HLT 2010 Student Research Workshop	pagerank: 0.000415135464158
+venue:  Human Language Technology Conference And Meeting Of The North American Association For Computational Linguistics - Demonstrations	pagerank: 0.000690953944039
+venue:  Workshop On Multilingual Question Answering MLQA	pagerank: 0.000442742948761
+venue:  Workshop On Psychocomputational Models Of Human Language Acquisition	pagerank: 0.000442646740059
+venue:  JEP-TALN-RECITAL 2012, Workshop DEGELS 2012: Défi GEste Langue des Signes (DEGELS 2012: Gestures and Sign Language Challenge)	pagerank: 0.00040404040404
+venue:  Proceedings of ACL 2012 Student Research Workshop	pagerank: 0.00041128025745
+venue:  Workshop On Text Meaning	pagerank: 0.00066380183875
+venue:  Workshop On Recent Advances In Dependency Grammar	pagerank: 0.000507669478127
+venue:  Workshop On Multiword Expressions: Identifying And Exploiting Underlying Properties	pagerank: 0.000620481006011
+venue:  Proceedings of the 2nd Workshop on Building and Using Comparable Corpora: from Parallel to Non-parallel Corpora (BUCC)	pagerank: 0.000437305313453
+venue:  Proceedings of the NAACL HLT Workshop on Extracting and Using Constructions in Computational Linguistics	pagerank: 0.000414550941999
+venue:  Workshop On Linking Biological Literature, Ontologies And Databases: Mining Biological Semantics	pagerank: 0.000511370303875
+venue:  Workshop On Effective Tools And Methodologies For Teaching NLP And CL	pagerank: 0.000594880235853
+venue:  Conference Of The European Association For Computational Linguistics - Student Research Workshop	pagerank: 0.000515652813729
+venue:  Proceedings of the 2009 Workshop on Graph-based Methods for Natural Language Processing (TextGraphs-4)	pagerank: 0.000473195411135
+venue:  Proceedings of the 2nd Workshop on Computational Approaches to Subjectivity and Sentiment Analysis (WASSA 2.011)	pagerank: 0.000475972875763
+venue:  Proceedings of the EACL 2009 Workshop on Language Technology and Resources for Cultural Heritage, Social Sciences, Humanities, and Education (LaTeCH &#x2013; SHELT&#x26;R 2009)	pagerank: 0.000523870201566
+venue:  Workshop On The Acquisition Of Lexical Knowledge From Text	pagerank: 0.0013998030988
+venue:  Workshop On Evaluation Methodologies For Language And Dialogue Systems	pagerank: 0.00046925804353
+venue:  Workshop On Learning Structured Information In Natural Language Applications	pagerank: 0.000467035261422
+venue:  Workshop On Multiword Expressions: Analysis, Acquisition And Treatment	pagerank: 0.001427769996
+venue:  Workshop on Cognitive Aspects of Computational Language Acquisition	pagerank: 0.000485150879476
+venue:  Workshop On Embedded Machine Translation Systems	pagerank: 0.000605019934231
+venue:  Proceedings of the Workshop on Computational Approaches to Linguistic Creativity	pagerank: 0.000535906339192
+venue:  Proceedings of the EACL 2009 Workshop on Cognitive Aspects of Computational Language Acquisition	pagerank: 0.000405174943113
+venue:  INLG International Natural Language Generation Workshop - Poster Session	pagerank: 0.000557492827014
+venue:  Proceedings of the Student Research Workshop at EACL 2009	pagerank: 0.000415324081835
+venue:  Proceedings of the Workshop on Detecting Structure in Scholarly Discourse	pagerank: 0.000415487081873
+venue:  Workshop On Applied Interlinguas: Practical Applications Of Interlingual Approaches To NLP	pagerank: 0.000498251694962
+venue:  Proceedings of the NAACL-HLT 2012 Workshop: Will We Ever Really Replace the N-gram Model? On the Future of Language Modeling for HLT	pagerank: 0.000409658592142
+venue:  Workshop On Unsupervised Learning In Natural Language Processing	pagerank: 0.000873927693954
+venue:  Workshop On From Research To Commercial Applications: Making NLP Work In Practice	pagerank: 0.000542347373514
+venue:  Interactive Question Answering Workshop	pagerank: 0.00047332569698
+venue:  Coling 2008: Proceedings of the workshop on Grammar Engineering Across Frameworks	pagerank: 0.000432129258312
+venue:  Proceedings of the Twelfth Meeting of the Special Interest Group on Computational Morphology and Phonology	pagerank: 0.000415166648486
+venue:  ACL-IJCNLP: Software Demos	pagerank: 0.000443853461875
+venue:  Workshop On Computer And Internet Supported Education In Language And Speech Technology	pagerank: 0.000485642918122
+venue:  Proceedings of the 4th Named Entity Workshop (NEWS) 2012	pagerank: 0.000437694780471
+venue:  Proceedings of the 3rd Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2012)	pagerank: 0.00041484540722
+venue:  Proceedings of the Workshop on Technologies and Corpora for Asia-Pacific Speech Translation (TCAST)	pagerank: 0.000417523825343
+venue:  Proceedings of the Workshop on Unsupervised and Minimally Supervised Learning of Lexical Semantics	pagerank: 0.000406057649609
+venue:  Workshop On Constraints And Language Processing	pagerank: 0.0004080202378
+venue:  Proceedings of the Third Workshop on Syntax and Structure in Statistical Translation (SSST-3) at NAACL HLT 2009	pagerank: 0.000449267622872
+venue:  Workshop on Statistical Parsing of Morphologically-Rich Languages	pagerank: 0.000421294798519
+venue:  Proceedings of the NAACL HLT 2010 Second Workshop on Computational Approaches to Linguistic Creativity	pagerank: 0.000421524638915
+venue:  Workshop On Reading Comprehension Tests As Evaluation For Computer-Based Language Understanding Systems	pagerank: 0.000568341355181
+venue:  INLG International Natural Language Generation Workshop - Demonstration Sessions	pagerank: 0.000580487223163
+venue:  Workshop On Patent Corpus Processing	pagerank: 0.000477095543275
+venue:  Conference On Question Answering In Restricted Domains	pagerank: 0.000742661828816
+venue:  SSST	pagerank: 0.000407412064693
+venue:  JEP-TALN-RECITAL 2012, Workshop ILADI 2012: Interactions Langagières pour personnes Agées Dans les habitats Intelligents (ILADI 2012: Language Interaction for Elderly in Smart Homes)	pagerank: 0.00040404040404
+venue:  Workshop on Grammar-Based Approaches to Spoken Language Processing	pagerank: 0.000531302286646
+venue:  Workshop On Linguistic Annotation: Getting The Model Right	pagerank: 0.000525911197397
+venue:  WVL	pagerank: 0.00040404040404
+venue:  Applied Natural Language Processing Conference And Meeting Of The North American Association For Computational Linguistics - Student Research Workshop	pagerank: 0.000436200202233
+venue:  Workshop On Task-Focused Summarization And Question Answering	pagerank: 0.00046298539343
+venue:  COLING - Tutorials	pagerank: 0.000412621131915
+venue:  Workshop on Computational Approaches to Figurative Language	pagerank: 0.000512633114046
